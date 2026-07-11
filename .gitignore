@@ -1,0 +1,11 @@
+
+dataset/
+trainer/
+users.json
+
+
+__pycache__/
+*.pyc
+
+
+.vscode/
